@@ -44,3 +44,8 @@ Pour cela, il faut installer le client : npm install @supabase/supabase-js.
 J'utilise ensuite le template donné par Supabase et je l'ai modifié en fonction de ma base, puis je retourne ma carte.
 
 
+# Futur du projet :
+
+J'aimerais ajouter la possibilité d'alimenter la base de données en lui donnant des véhicules via mon app React.
+
+
