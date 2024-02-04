@@ -1,0 +1,39 @@
+{
+  "voitures": [
+    {
+      "id": 1,
+      "nom": "Renault 4CV",
+      "annee": 1947,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Renault-4CV-1.jpg/560px-Renault-4CV-1.jpg",
+      "description": "La Renault 4CV, produite de 1947 à 1961, fut l'une des premières voitures populaires de l'après-guerre. Avec son moteur arrière, elle incarne l'ingéniosité et l'économie de l'ère d'après-guerre."
+    },
+    {
+      "id": 2,
+      "nom": "Renault Dauphine",
+      "annee": 1956,
+      "image": "https://images.caradisiac.com/logos-ref/modele/modele--renault-dauphine/S8-modele--renault-dauphine.jpg",
+      "description": "La Renault Dauphine, produite de 1956 à 1967, était une petite voiture élégante. Sa silhouette distincte et son intérieur confortable en ont fait une voiture appréciée de son époque."
+    },
+    {
+      "id": 3,
+      "nom": "Renault 8",
+      "annee": 1962,
+      "image": "https://www.retromobilclubtulle.com/wp-content/uploads/2014/12/renault-8.jpg",
+      "description": "La Renault 8, lancée en 1962, était une berline sportive populaire. Son design dynamique et son moteur arrière en ont fait un modèle apprécié des amateurs de conduite."
+    },
+    {
+      "id": 4,
+      "nom": "Renault 16",
+      "annee": 1965,
+      "image": "https://www.auto-forever.com/wp-content/uploads/2020/05/16_1978-1980_TX_1-1030x773.jpg",
+      "description": "La Renault 16, introduite en 1965, était une voiture familiale innovante. Elle a été l'une des premières à présenter un hayon arrière, combinant praticité et style avant-gardiste."
+    },
+    {
+      "id": 5,
+      "nom": "Renault 21 Turbo",
+      "annee": 1965,
+      "image": "https://carfans.fr/wp-content/uploads/2022/06/Renault-R21-2L-Turbo-Quadra_1-scaled.jpg.webp",
+      "description": "La Renault 21 Turbo, sortie dans les années 80, était une voiture sportive emblématique. Son moteur turbo puissant et son style distinctif en font un modèle mémorable de l'ère du sport automobile."
+    }
+  ]
+}
