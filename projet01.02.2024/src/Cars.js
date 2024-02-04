@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { createClient } from "@supabase/supabase-js";
 
-const supabase = createClient("https://akneubjvrghlnzikyknr.supabase.co", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFrbmV1Ymp2cmdobG56aWt5a25yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDY4ODcwNDcsImV4cCI6MjAyMjQ2MzA0N30.xIS9hDPUUe-_AAC4jRt4ajXhjKWriMZCae1TU0uX70U");
+const supabase = createClient("https://akneubjvrghlnzikyknr.supabase.co", "clé");
 
 function Cars() {
   const [cars, setCars] = useState([]);
