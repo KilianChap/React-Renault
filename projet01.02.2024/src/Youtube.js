@@ -7,11 +7,11 @@ const YoutubeComponent = () => {
   useEffect(() => {
     const fetchYoutubeData = async () => {
 
-        const API_KEY = 'AIzaSyAa4AjRaQBvfrP6C5_3P_z75a5y1AYLrQw';
+        const API_KEY = 'apikey';
         const CHANNEL_ID = 'UC5H7jK_2reQHA1XxoNi7DDw';
 
         const response = await axios.get(
-          `CléApi${API_KEY}&channelId=${CHANNEL_ID}&part=snippet,id&order=date&maxResults=5`
+          `https://www.googleapis.com/youtube/v3/search?key=${API_KEY}&channelId=${CHANNEL_ID}&part=snippet,id&order=date&maxResults=5`
         );
 
         setVideos(response.data.items);
